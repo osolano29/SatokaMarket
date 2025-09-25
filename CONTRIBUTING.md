@@ -17,15 +17,15 @@ Estas especificaciones deben guiar la generación de componentes React, hooks pe
 - `utils`: Funciones auxiliares para conversión, validación, formato y conexión Web3
 
 ## Archivos ABI y direcciones de contratos
-- [`abiManager.json`](contracts/abiManager.json): Especifica el ABI del contrato manager.sol llamado ProductManager
-- [`abiGhost.json`](contracts/abiGhost.json): Especifica el ABI del contrato GhostToken.sol llamado GhostToken
-- [`abiSatokaNFT.json`](contracts/abiSatokaNFT.json): Especifica el ABI del contrato SATOKA.sol llamado SatokaNFT
-- [`adrsProductManager.json`](contracts/adrsProductManager.json): Especifica las direcciones del contrato ProdcutManager en las diferentes redes desplegado.
-- [`adrsGhostToken.json`](contracts/adrsGhostToken.json): Especifica las direcciones del contrato GhostToken en las diferentes redes desplegado.
-- [`adrsSatokaNFT.json`](contracts/adrsSatokaNFT.json): Especifica las direcciones del contrato SatokaNFT en las diferentes redes desplegado.
-- [`redBnb.json`](contracts/redBnb.json): Especifica datos conexión a la red BNB.
-- [`redPolygon-amoy.json`](contracts/redPolygon-amoy.json): Especifica datos conexión a la red Amoy para pruebas antes de lanzamiento.
-- [`redPolygon-mainnet.json`](contracts/redPolygon-mainnet.json): Especifica datos conexión de la primera red de despliegue, Polygon. 
+- [`abiManager.json`](contracts/ProductManager.abi.json): Especifica el ABI del contrato manager.sol llamado ProductManager
+- [`abiGhost.json`](contracts/GhostToken.abi.json): Especifica el ABI del contrato GhostToken.sol llamado GhostToken
+- [`abiSatokaNFT.json`](contracts/SatokaNFT.abi.json): Especifica el ABI del contrato SATOKA.sol llamado SatokaNFT
+- [`adrsProductManager.json`](contracts/ProductManager.adrs.json): Especifica las direcciones del contrato ProdcutManager en las diferentes redes desplegado.
+- [`adrsGhostToken.json`](contracts/GhostToken.adrs.json): Especifica las direcciones del contrato GhostToken en las diferentes redes desplegado.
+- [`adrsSatokaNFT.json`](contracts/SatokaNFT.adrs.json): Especifica las direcciones del contrato SatokaNFT en las diferentes redes desplegado.
+- [`redBnb.json`](contracts/Bnb.red.json): Especifica datos conexión a la red BNB.
+- [`redPolygon-amoy.json`](contracts/Amoy.red.json): Especifica datos conexión a la red Amoy para pruebas antes de lanzamiento.
+- [`redPolygon-mainnet.json`](contracts/Polygon.red.json): Especifica datos conexión de la primera red de despliegue, Polygon. 
 
 ## 📚 Referencia técnica de contratos
 
