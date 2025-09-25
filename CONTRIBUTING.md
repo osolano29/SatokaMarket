@@ -37,7 +37,7 @@ Para colaborar de forma efectiva y generar código que respete la lógica del si
 
 ## Imagenes empleadas en el Market Satoka
 
-- [`assets.md`](assets/assets.md): Especificaciones de las imagenes empleadas en el proyecto de Satoka Market
+- [`assets.md`](public/assets/assets.md): Especificaciones de las imagenes empleadas en el proyecto de Satoka Market
 
 ## 🧙‍♂️ Roles
 
