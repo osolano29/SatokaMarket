@@ -31,9 +31,9 @@ Estas especificaciones deben guiar la generación de componentes React, hooks pe
 
 Para colaborar de forma efectiva y generar código que respete la lógica del sistema, consulta los siguientes archivos en la carpeta `docs/`:
 
-- [`ProductManager.md`](docs/ProductManager.md): Define cómo se registran y mantienen los productos del marketplace.
-- [`GhostToken.md`](docs/GhostToken.md): Explica la lógica de recompensas, minteo y transferencias de la moneda Go.
-- [`SatokaNFT.md`](docs/SatokaNFT.md): Detalla los tipos de NFTs, sus metadatos, recompensas y funciones de adquisición.
+- [`ProductManager.md`](contracts/ProductManager.contrato.md): Define cómo se registran y mantienen los productos del marketplace.
+- [`GhostToken.md`](contracts/GhostToken.contrato.md): Explica la lógica de recompensas, minteo y transferencias de la moneda Go.
+- [`SatokaNFT.md`](cosntracts/SatokaNFT.contrato.md): Detalla los tipos de NFTs, sus metadatos, recompensas y funciones de adquisición.
 
 ## Imagenes empleadas en el Market Satoka
 
