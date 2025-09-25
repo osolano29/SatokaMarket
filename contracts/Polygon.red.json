@@ -1,0 +1,6 @@
+{
+  "name": "Polygon Mainnet",
+  "chainId": 137,
+  "rpcUrl": "https://polygon-rpc.com",
+  "explorer": "https://polygonscan.com"
+}

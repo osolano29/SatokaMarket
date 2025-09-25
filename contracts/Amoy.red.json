@@ -1,0 +1,6 @@
+{
+  "name": "Polygon Amoy Testnet",
+  "chainId": 80002,
+  "rpcUrl": "https://rpc-amoy.polygon.technology",
+  "explorer": "https://www.oklink.com/amoy"
+}

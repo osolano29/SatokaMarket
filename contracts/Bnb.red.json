@@ -1,0 +1,6 @@
+{
+  "name": "BNB Smart Chain",
+  "chainId": 56,
+  "rpcUrl": "https://bsc-dataseed.binance.org",
+  "explorer": "https://bscscan.com"
+}
