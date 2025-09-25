@@ -33,7 +33,7 @@ Para colaborar de forma efectiva y generar código que respete la lógica del si
 
 - [`ProductManager.md`](contracts/ProductManager.contrato.md): Define cómo se registran y mantienen los productos del marketplace.
 - [`GhostToken.md`](contracts/GhostToken.contrato.md): Explica la lógica de recompensas, minteo y transferencias de la moneda Go.
-- [`SatokaNFT.md`](cosntracts/SatokaNFT.contrato.md): Detalla los tipos de NFTs, sus metadatos, recompensas y funciones de adquisición.
+- [`SatokaNFT.md`](contracts/SatokaNFT.contrato.md): Detalla los tipos de NFTs, sus metadatos, recompensas y funciones de adquisición.
 
 ## Imagenes empleadas en el Market Satoka
 
